@@ -1,2 +1,2 @@
-# Hello-worl
+# Hello-world
 My first repository on github
